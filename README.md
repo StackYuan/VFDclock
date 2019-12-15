@@ -8,6 +8,6 @@ featured to support GPS location and time calibrate.
 </br>
 stm32f1 + DS3231M + ESP8266 + SHT30 + Quectel L80-R
 </br>
-![view](https://github.com/StackYuan/VFDclock/blob/master/1570333079243.jpg)
+![topview](https://github.com/StackYuan/VFDclock/blob/master/1570333079243.jpg)
 </br>
 ![bottom view](https://github.com/StackYuan/VFDclock/blob/master/1569019089477.jpg)
