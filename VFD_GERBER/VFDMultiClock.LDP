@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\$开坑与杂项\VFD显示\VFD时钟PCB\VFDMultiClock.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=vfdmulticlock-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=vfdmulticlock-slotholes.txt|DrillLayers=gtl,gbl
